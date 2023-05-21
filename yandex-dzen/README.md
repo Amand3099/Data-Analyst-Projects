@@ -16,5 +16,5 @@
 
 
 
-В случае, если не открывается ссылка на дашборд, воспользуйтесь, пожалуйста, этой(https://public.tableau.com/app/profile/amand8513/viz/Yandex_Dzen_16641203994100/_)
+В случае, если не открывается ссылка на дашборд, воспользуйтесь, пожалуйста, этой: https://public.tableau.com/app/profile/amand8513/viz/Yandex_Dzen_16641203994100/_
 
